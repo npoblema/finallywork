@@ -1,0 +1,160 @@
+{
+    "greeting": "Доброе утро!",
+    "total_expenses": 9965776.830000062,
+    "card_data": [
+        {
+            "last_digits": "7197",
+            "total_spent": 2389918.4999999865,
+            "cashback": 43888.0
+        },
+        {
+            "last_digits": "5091",
+            "total_spent": 17367.399999999998,
+            "cashback": 507.0
+        },
+        {
+            "last_digits": "4556",
+            "total_spent": 1768837.500000001,
+            "cashback": 8777.0
+        },
+        {
+            "last_digits": "1112",
+            "total_spent": 46207.0,
+            "cashback": 0.0
+        },
+        {
+            "last_digits": "5507",
+            "total_spent": 84000.0,
+            "cashback": 0.0
+        },
+        {
+            "last_digits": "6002",
+            "total_spent": 69200.0,
+            "cashback": 0.0
+        },
+        {
+            "last_digits": "5441",
+            "total_spent": 470854.69999999995,
+            "cashback": 0.0
+        }
+    ],
+    "top_transactions": [
+        {
+            "date_operation": "21.03.2019 17:01:38",
+            "data_payment": "21.03.2019",
+            "card_number": NaN,
+            "status": "OK",
+            "transaction_amount": 190044.51,
+            "currency_operation": "RUB",
+            "payment_amount": 190044.51,
+            "payment_currency": "RUB",
+            "cashback": NaN,
+            "category": "Переводы",
+            "MCC": NaN,
+            "description": "Перевод Кредитная карта. ТП 10.2 RUR",
+            "bonuses_including_cashback": 0,
+            "rounding_investment_bank": 0,
+            "amount_rounding_operation": 190044.51
+        },
+        {
+            "date_operation": "23.10.2018 12:26:15",
+            "data_payment": "23.10.2018",
+            "card_number": NaN,
+            "status": "OK",
+            "transaction_amount": 177506.03,
+            "currency_operation": "RUB",
+            "payment_amount": 177506.03,
+            "payment_currency": "RUB",
+            "cashback": NaN,
+            "category": "Переводы",
+            "MCC": NaN,
+            "description": "Перевод Кредитная карта. ТП 10.2 RUR",
+            "bonuses_including_cashback": 0,
+            "rounding_investment_bank": 0,
+            "amount_rounding_operation": 177506.03
+        },
+        {
+            "date_operation": "30.12.2021 17:50:17",
+            "data_payment": "30.12.2021",
+            "card_number": "*4556",
+            "status": "OK",
+            "transaction_amount": 174000.0,
+            "currency_operation": "RUB",
+            "payment_amount": 174000.0,
+            "payment_currency": "RUB",
+            "cashback": NaN,
+            "category": "Пополнения",
+            "MCC": NaN,
+            "description": "Пополнение через Газпромбанк",
+            "bonuses_including_cashback": 0,
+            "rounding_investment_bank": 0,
+            "amount_rounding_operation": 174000.0
+        },
+        {
+            "date_operation": "14.09.2021 14:57:42",
+            "data_payment": "14.09.2021",
+            "card_number": NaN,
+            "status": "OK",
+            "transaction_amount": 150000.0,
+            "currency_operation": "RUB",
+            "payment_amount": 150000.0,
+            "payment_currency": "RUB",
+            "cashback": NaN,
+            "category": "Пополнения",
+            "MCC": 6012.0,
+            "description": "Перевод с карты",
+            "bonuses_including_cashback": 0,
+            "rounding_investment_bank": 0,
+            "amount_rounding_operation": 150000.0
+        },
+        {
+            "date_operation": "31.07.2020 22:27:45",
+            "data_payment": "01.08.2020",
+            "card_number": NaN,
+            "status": "OK",
+            "transaction_amount": 150000.0,
+            "currency_operation": "RUB",
+            "payment_amount": 150000.0,
+            "payment_currency": "RUB",
+            "cashback": NaN,
+            "category": "Пополнения",
+            "MCC": 6012.0,
+            "description": "Перевод с карты",
+            "bonuses_including_cashback": 0,
+            "rounding_investment_bank": 0,
+            "amount_rounding_operation": 150000.0
+        }
+    ],
+    "currency_rates": [
+        {
+            "currency": "USD",
+            "rate": 87.629913
+        },
+        {
+            "currency": "EUR",
+            "rate": 94.873459
+        }
+    ],
+    "stock_prices": [
+        {
+            "stock": "AAPL",
+            "price": 227.44000244140625
+        },
+        {
+            "stock": "AMZN",
+            "price": 201.1999969482422
+        },
+        {
+            "stock": "GOOGL",
+            "price": 190.1699981689453
+        },
+        {
+            "stock": "MSFT",
+            "price": 467.70001220703125
+        },
+        {
+            "stock": "TSLA",
+            "price": 259.4389953613281
+        }
+    ]
+}
